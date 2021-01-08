@@ -48,7 +48,6 @@ export default class App extends Component {
         />
         <CountryList stats={filteredCountries} />
       </div>
-      /* */
     );
   }
 }
