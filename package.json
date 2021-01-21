@@ -2,7 +2,7 @@
   "name": "react-hooks",
   "version": "0.1.0",
   "private": true,
-  "home": "https://kdevra.github.io/Covid19-Cases1",
+  "home": "https://kdevra.github.io/covid19-cases",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
