@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/Covid19-Cases1">
     <App />
   </BrowserRouter>,
   document.getElementById('root')
